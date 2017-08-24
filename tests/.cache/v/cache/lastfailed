@@ -1,0 +1,8 @@
+{
+  "API_tests.py": true,
+  "API_tests.py::loginAPITests::test_makeRequest": true,
+  "API_tests.py::test_validLoginAPI": true,
+  "login_tests.py::LoginTests::test_t4_missing_username_and_password": true,
+  "login_tests.py::LoginTests::test_t5_invalid_password": true,
+  "test_test.py": true
+}

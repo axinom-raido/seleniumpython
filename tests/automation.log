@@ -1,0 +1,941 @@
+08/22/2017 06:18:19 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 06:18:20 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 06:18:20 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 06:18:20 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 06:18:20 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 06:18:20 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 06:18:20 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 06:18:20 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 06:18:20 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:08:56 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:08:56 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:08:56 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:08:56 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:08:56 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:08:56 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:08:56 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:08:56 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:08:56 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:08:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:08:56 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:08:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:09:43 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:09:43 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:09:44 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:09:44 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:09:44 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:09:44 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:09:44 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:09:44 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:09:44 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:09:44 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:09:44 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:09:44 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:10:03 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:10:04 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:10:04 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:10:04 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:10:04 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:10:04 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:10:04 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:10:04 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:10:04 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:10:04 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:10:04 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:10:04 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:11:52 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:11:52 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:11:52 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:11:52 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:11:52 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:11:52 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:11:52 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:11:52 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:11:52 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:11:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:11:52 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:11:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:13:05 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:13:05 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:13:05 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:13:05 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:13:05 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:13:05 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:13:05 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:13:05 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:13:05 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:13:05 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:13:05 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:13:05 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:13:05 PM - LoginPage - INFO: Locator type text not correct/supported
+08/22/2017 08:13:05 PM - LoginPage - INFO: Element not found with locator: Password forgotten? and  locatorType: text
+08/22/2017 08:13:05 PM - LoginPage - INFO: Cannot click on the element with locator: Password forgotten? locatorType: text
+08/22/2017 08:15:14 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:15:14 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:15:14 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:15:14 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:15:14 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:15:14 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:15:14 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:15:14 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:15:14 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:15:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:15:14 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:15:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:15:14 PM - LoginPage - INFO: Locator type text not correct/supported
+08/22/2017 08:15:14 PM - LoginPage - INFO: Element not found with locator: Password forgotten? and  locatorType: text
+08/22/2017 08:15:14 PM - LoginPage - INFO: Cannot click on the element with locator: Password forgotten? locatorType: text
+08/22/2017 08:16:33 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:16:33 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:16:33 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:16:33 PM - LoginPage - INFO: Locator type text not correct/supported
+08/22/2017 08:16:33 PM - LoginPage - INFO: Element not found with locator: Password forgotten? and  locatorType: text
+08/22/2017 08:16:33 PM - LoginPage - INFO: Cannot click on the element with locator: Password forgotten? locatorType: text
+08/22/2017 08:18:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:18:55 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:18:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:18:55 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:18:55 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:20:44 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:20:44 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:20:44 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:21:04 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:21:04 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:21:04 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:21:04 PM - LoginPage - INFO: Locator type text not correct/supported
+08/22/2017 08:21:04 PM - LoginPage - INFO: Element not found with locator: Password forgotten? and  locatorType: text
+08/22/2017 08:21:04 PM - LoginPage - INFO: Cannot click on the element with locator: Password forgotten? locatorType: text
+08/22/2017 08:22:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:22:16 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:22:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:22:16 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:22:16 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:23:08 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:23:08 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:23:08 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:23:08 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:23:08 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:24:21 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:24:21 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:24:21 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:24:21 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:24:21 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:26:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:26:39 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:26:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:26:39 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:26:40 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:26:40 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:26:40 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:30:49 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:30:49 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:30:49 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:30:50 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:30:50 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:30:50 PM - LoginPage - INFO: Locator type text not correct/supported
+08/22/2017 08:30:50 PM - LoginPage - INFO: Element not found with locator: Return to Login? and  locatorType: text
+08/22/2017 08:30:50 PM - LoginPage - INFO: Cannot click on the element with locator: Return to Login? locatorType: text
+08/22/2017 08:30:53 PM - LoginPage - INFO: Element not found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:30:53 PM - LoginPage - INFO: Cannot click on the element with locator: Password forgotten? locatorType: link
+08/22/2017 08:30:53 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:30:53 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:31:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:31:55 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:31:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:31:56 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:31:56 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:31:56 PM - LoginPage - INFO: Locator type text not correct/supported
+08/22/2017 08:31:56 PM - LoginPage - INFO: Element not found with locator: Return to Login? and  locatorType: text
+08/22/2017 08:31:56 PM - LoginPage - INFO: Cannot click on the element with locator: Return to Login? locatorType: text
+08/22/2017 08:32:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:32:55 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:32:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:32:55 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:32:55 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:32:55 PM - LoginPage - INFO: Element found with locator: Return to Login? and  locatorType: link
+08/22/2017 08:32:56 PM - LoginPage - INFO: Clicked on element with locator: Return to Login? locatorType: link
+08/22/2017 08:33:35 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:33:35 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:33:35 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:33:35 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:33:35 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:33:35 PM - LoginPage - INFO: Element found with locator: Return to Login? and  locatorType: link
+08/22/2017 08:33:36 PM - LoginPage - INFO: Clicked on element with locator: Return to Login? locatorType: link
+08/22/2017 08:35:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:35:14 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:35:14 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:35:14 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:35:14 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:35:14 PM - LoginPage - INFO: Element found with locator: Return to Login? and  locatorType: link
+08/22/2017 08:35:15 PM - LoginPage - INFO: Clicked on element with locator: Return to Login? locatorType: link
+08/22/2017 08:35:15 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:35:15 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:35:15 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:35:15 PM - LoginPage - INFO: Element not found with locator: Email me and  locatorType: value
+08/22/2017 08:35:15 PM - LoginPage - INFO: Cannot click on the element with locator: Email me locatorType: value
+08/22/2017 08:37:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:37:36 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:37:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:37:36 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:37:36 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:37:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:37:55 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:37:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:37:55 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:37:56 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:38:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:38:30 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:38:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:38:30 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:38:31 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:39:08 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:39:08 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:39:08 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:39:08 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:39:08 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:39:08 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:39:08 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:39:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:39:30 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:39:30 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:39:30 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:39:31 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:39:31 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:39:31 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:39:31 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:39:31 PM - LoginPage - INFO: Element not found with locator: Email me and  locatorType: value
+08/22/2017 08:39:31 PM - LoginPage - INFO: Cannot click on the element with locator: Email me locatorType: value
+08/22/2017 08:41:31 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:41:31 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:41:31 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:41:31 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:41:32 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:42:11 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:42:11 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:42:11 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:42:11 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:42:11 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:43:12 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:43:12 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:43:12 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:43:12 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:43:13 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:43:13 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:43:13 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:43:13 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/22/2017 08:43:13 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/22/2017 08:43:13 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:43:13 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/22/2017 08:43:13 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/22/2017 08:43:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:43:52 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:43:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:43:52 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:43:53 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:44:12 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:44:12 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:44:12 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:44:12 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:44:12 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:44:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:44:55 PM - LoginTests - INFO: test_frogot_password started
+08/22/2017 08:44:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 08:44:55 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 08:44:56 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 08:44:56 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 08:44:56 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 08:44:56 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 08:44:56 PM - LoginPage - INFO: Element not found with locator: Email me and  locatorType: value
+08/22/2017 08:44:56 PM - LoginPage - INFO: Cannot click on the element with locator: Email me locatorType: value
+08/22/2017 09:44:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 09:44:03 PM - LoginTests - INFO: test_forgot_password started
+08/22/2017 09:44:03 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 09:44:03 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 09:44:03 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 09:44:03 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 09:44:03 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 09:44:03 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 09:44:03 PM - LoginPage - INFO: Element not found with locator: Email me and  locatorType: value
+08/22/2017 09:44:03 PM - LoginPage - INFO: Cannot click on the element with locator: Email me locatorType: value
+08/22/2017 09:44:48 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 09:44:48 PM - LoginTests - INFO: test_forgot_password started
+08/22/2017 09:44:48 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 09:44:48 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 09:44:49 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 09:44:49 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 09:44:49 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 09:44:49 PM - LoginPage - INFO: Locator type value not correct/supported
+08/22/2017 09:44:49 PM - LoginPage - INFO: Element not found with locator: Email me and  locatorType: value
+08/22/2017 09:44:49 PM - LoginPage - INFO: Cannot click on the element with locator: Email me locatorType: value
+08/22/2017 10:07:42 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 10:07:42 PM - LoginTests - INFO: test_forgot_password started
+08/22/2017 10:07:42 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 10:07:42 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 10:07:43 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 10:07:43 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 10:07:43 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 10:07:43 PM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/22/2017 10:07:43 PM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/22/2017 10:08:46 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 10:08:46 PM - LoginTests - INFO: test_forgot_password started
+08/22/2017 10:08:46 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/22/2017 10:08:46 PM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/22/2017 10:08:46 PM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/22/2017 10:08:46 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/22/2017 10:08:46 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/22/2017 10:08:46 PM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/22/2017 10:08:46 PM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:33:59 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:33:59 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:33:59 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:33:59 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:33:59 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:33:59 AM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 11:33:59 AM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 11:33:59 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:33:59 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:37:34 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:37:34 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:37:34 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:37:34 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:37:34 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:37:34 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:37:34 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:39:13 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:39:13 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:39:13 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:39:13 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:39:13 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:39:13 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:39:14 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:39:14 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 11:39:16 AM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 11:39:16 AM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/23/2017 11:39:16 AM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/23/2017 11:39:16 AM - LoginPage - INFO: Element not found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:39:16 AM - LoginPage - INFO: Cannot click on the element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:39:51 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:39:51 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:39:51 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:39:51 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:39:52 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:39:52 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:39:52 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:39:52 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 11:39:54 AM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 11:41:05 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:41:05 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:41:05 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:41:05 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:41:05 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:41:05 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:41:06 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:41:06 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 11:41:18 AM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 11:41:47 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:41:47 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:41:47 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:41:47 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:41:48 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:41:48 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:41:48 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:41:48 AM - LoginPage - INFO: Element found with locator: .field-validation-error and  locatorType: css
+08/23/2017 11:41:48 AM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 11:41:48 AM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 11:41:48 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:41:48 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:46:07 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:46:07 AM - LoginTests - INFO: test_forgot_password started
+08/23/2017 11:46:07 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:46:07 AM - LoginPage - INFO: Element found with locator: Password forgotten? and  locatorType: link
+08/23/2017 11:46:07 AM - LoginPage - INFO: Clicked on element with locator: Password forgotten? locatorType: link
+08/23/2017 11:46:07 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:46:08 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:46:08 AM - LoginPage - INFO: Element found with locator: .field-validation-error and  locatorType: css
+08/23/2017 11:46:08 AM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 11:46:08 AM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 11:46:08 AM - LoginPage - INFO: Element found with locator: .login-form > input:nth-child(4) and  locatorType: css
+08/23/2017 11:46:08 AM - LoginPage - INFO: Clicked on element with locator: .login-form > input:nth-child(4) locatorType: css
+08/23/2017 11:58:28 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:58:28 AM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 11:58:28 AM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 11:58:28 AM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 11:58:28 AM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 11:58:28 AM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 11:58:28 AM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 11:58:28 AM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 11:58:28 AM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 11:58:28 AM - LoginPage - INFO: Locator type value not correct/supported
+08/23/2017 11:58:28 AM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/23/2017 11:58:28 AM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/23/2017 11:58:28 AM - Util - INFO: Actual Text From Application Web UI --> :: Welcome to Axinom CMS!
+08/23/2017 11:58:28 AM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 11:58:28 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 11:58:28 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 11:58:40 AM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 12:00:13 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:00:13 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:00:13 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:00:13 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:00:13 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:00:13 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:00:13 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:00:14 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:00:14 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:00:14 PM - LoginPage - INFO: Locator type value not correct/supported
+08/23/2017 12:00:14 PM - LoginPage - INFO: Element not found with locator: Log in and  locatorType: value
+08/23/2017 12:00:14 PM - LoginPage - INFO: Cannot click on the element with locator: Log in locatorType: value
+08/23/2017 12:00:14 PM - Util - INFO: Actual Text From Application Web UI --> :: Welcome to Axinom CMS!
+08/23/2017 12:00:14 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:00:14 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:00:14 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 12:00:26 PM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 12:04:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:04:52 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:04:52 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:04:52 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:04:52 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:04:52 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:04:52 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:04:52 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:04:52 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:04:52 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:04:53 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:04:54 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:04:54 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:04:54 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:04:54 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 12:05:06 PM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 12:06:27 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:06:27 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:06:27 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:06:27 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:06:27 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:06:27 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:06:27 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:06:27 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:06:27 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:06:27 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:06:28 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:06:28 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:06:28 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:06:28 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:06:28 PM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/23/2017 12:06:40 PM - LoginPage - INFO: Element not appeared on the web page
+08/23/2017 12:08:27 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:08:27 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:08:27 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:08:27 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:08:27 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:08:27 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:08:27 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:08:27 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:08:27 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:08:27 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:08:29 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:08:29 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:08:29 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:08:29 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:08:29 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/23/2017 12:09:38 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:09:38 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:09:38 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:09:38 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:09:38 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:09:38 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:09:38 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:09:38 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:09:38 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:09:38 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:09:39 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:09:39 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:09:39 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:09:39 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:09:39 PM - LoginPage - INFO: Element#awe-homeButtonId and byType:css not found
+08/23/2017 12:11:23 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:11:23 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:11:23 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:11:23 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:11:23 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:11:23 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:11:24 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:11:24 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:11:24 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:11:24 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:11:25 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:11:25 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:11:25 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:11:25 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:11:25 PM - LoginPage - INFO: Element#awe-homeButtonId and byType:css not found
+08/23/2017 12:12:07 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:12:07 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:12:07 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:12:07 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:12:07 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:12:07 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:12:07 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:12:07 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:12:07 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:12:07 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:12:08 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:12:08 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:12:08 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:12:08 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:12:08 PM - LoginPage - INFO: Element#awe-homeButtonId and byType:css not found
+08/23/2017 12:12:08 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/23/2017 12:15:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:15:47 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:15:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:15:48 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:15:48 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:15:48 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:15:48 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:15:48 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:15:48 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:15:48 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:15:49 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:15:49 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:15:49 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:15:49 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:15:49 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/23/2017 12:19:49 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:19:49 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:19:49 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:19:49 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:19:49 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:19:49 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:19:49 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:19:49 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:19:49 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:19:49 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:19:51 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:19:51 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/23/2017 12:19:51 PM - LoginPage - INFO: Element present with locator: #awe-homeButtonId locatorType: css
+08/23/2017 12:19:51 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:19:51 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:19:51 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:23:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:23:55 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:23:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:23:55 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:23:55 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:23:55 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:23:56 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:23:56 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:23:56 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:23:56 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:23:57 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:23:58 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:23:58 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:23:58 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:24:38 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:24:38 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:24:38 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:24:38 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:24:39 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:24:39 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:24:39 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:24:39 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:24:39 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:24:39 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:24:40 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:24:40 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:24:40 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:24:40 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:24:40 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+08/23/2017 12:25:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:25:32 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:25:32 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:25:32 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:25:32 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:25:32 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:25:32 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:25:32 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:25:32 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:25:32 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:25:33 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:25:34 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:25:34 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:25:34 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:25:34 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+08/23/2017 12:25:34 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/23/2017 12:25:34 PM - LoginPage - INFO: Element present with locator: #awe-homeButtonId locatorType: css
+08/23/2017 12:26:40 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:26:41 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:26:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:26:41 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:26:41 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:26:41 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:26:41 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:26:41 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:26:41 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:26:41 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:26:43 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 12:26:43 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:26:43 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/23/2017 12:26:43 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/23/2017 12:26:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+08/23/2017 12:26:43 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/23/2017 12:26:43 PM - LoginPage - INFO: Element present with locator: #awe-homeButtonId locatorType: css
+08/23/2017 12:26:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+08/23/2017 12:26:43 PM - TestStatus - INFO: test_t1_vaxlid_login ### TEST SUCCESSFUL
+08/23/2017 12:27:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:27:56 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 12:27:56 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 12:27:56 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:27:56 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:27:56 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 12:27:57 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 12:27:57 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 12:27:57 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 12:27:57 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 12:27:57 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:06:11 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:06:11 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:06:11 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:06:11 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:06:12 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:06:12 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:06:12 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:06:12 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:06:12 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:06:12 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:06:12 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:06:12 PM - LoginPage - INFO: Element not found with locator: .field-validation-error and  locatorType: class
+08/23/2017 01:12:21 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:12:21 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:12:21 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:12:22 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:12:22 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:12:22 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:12:22 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:12:22 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:12:22 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:12:22 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:12:22 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:12:57 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:12:57 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:12:57 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:12:58 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:12:58 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:12:58 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:12:58 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:12:58 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:12:58 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:12:58 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:12:58 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:13:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:13:47 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:13:47 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:13:47 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:13:47 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:13:47 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:13:47 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:13:47 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:13:47 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:13:47 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:13:48 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:14:49 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:14:49 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:14:49 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:14:49 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:14:49 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:14:49 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:14:49 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:14:49 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:14:49 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:14:49 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:14:50 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:21:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:21:22 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:21:22 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:21:22 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:21:22 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:21:22 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:21:22 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:21:22 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:21:22 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:21:22 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:21:22 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:22:17 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:22:17 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:22:17 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:22:17 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:22:18 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:22:18 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:22:18 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:22:18 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:22:18 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:22:18 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:22:19 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:24:31 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:24:31 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:24:31 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:24:31 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:24:31 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:24:31 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:24:31 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:24:31 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:24:32 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:24:32 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:24:32 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:30:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:30:24 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:30:24 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:30:25 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:30:25 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:30:25 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:30:25 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:30:25 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:30:25 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:30:25 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:30:25 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:32:28 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:32:28 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:32:28 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:32:28 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:32:28 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:32:28 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:32:28 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:32:28 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:32:28 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:32:28 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:32:29 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:33:50 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:33:50 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:33:50 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:33:50 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:33:50 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:33:50 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:33:50 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:33:50 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:33:50 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:33:50 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:33:50 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:39:19 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:39:19 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:39:19 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:39:19 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:39:19 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:39:19 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element not found with locator: //.field-validation-error[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/23/2017 01:39:19 PM - LoginPage - INFO: Element not present with locator: //.field-validation-error[contains(text(),'Invalid email or password')] locatorType: xpath
+08/23/2017 01:41:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:41:36 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:41:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:41:36 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:41:37 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:41:37 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:41:37 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:41:37 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:41:37 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:41:37 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:41:37 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:41:37 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:07 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:07 PM - LoginTests - INFO: test_t1invalidLogin started
+08/23/2017 01:42:07 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:07 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:42:07 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:42:07 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/23/2017 01:42:08 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/23/2017 01:42:08 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/23/2017 01:42:08 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/23/2017 01:42:08 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/23/2017 01:42:08 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/23/2017 01:42:08 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:08 PM - LoginPage - INFO: Validation errorslist: ['The User name field is required.']
+08/23/2017 01:42:08 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:08 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:08 PM - LoginPage - INFO: Validation errorslist: ['The User name field is required.', '']
+08/23/2017 01:42:08 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:08 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/23/2017 01:42:08 PM - LoginPage - INFO: Validation errorslist: ['The User name field is required.', '', '']
+08/23/2017 01:42:08 PM - LoginPage - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:34 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:34 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:54:34 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:34 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:54:34 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:54:34 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:54:34 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/24/2017 12:54:34 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:54:34 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/24/2017 12:54:34 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:54:36 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:54:36 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/24/2017 12:54:36 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/24/2017 12:54:36 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/24/2017 12:54:36 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+08/24/2017 12:54:36 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/24/2017 12:54:36 PM - LoginPage - INFO: Element present with locator: #awe-homeButtonId locatorType: css
+08/24/2017 12:54:36 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+08/24/2017 12:54:36 PM - TestStatus - INFO: test_t1_valid_login ### TEST SUCCESSFUL
+08/24/2017 12:54:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:36 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:54:36 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:39 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:54:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:39 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:54:39 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:42 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:54:42 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:42 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:54:42 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:45 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:54:45 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:45 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:54:45 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:48 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:54:48 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:48 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:54:48 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:54:51 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:55:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:55:41 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:55:41 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:55:41 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:55:41 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/24/2017 12:55:41 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:55:41 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/24/2017 12:55:41 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:55:43 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:55:43 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/24/2017 12:55:43 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/24/2017 12:55:43 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/24/2017 12:55:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+08/24/2017 12:55:43 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/24/2017 12:55:43 PM - LoginPage - INFO: Element present with locator: #awe-homeButtonId locatorType: css
+08/24/2017 12:55:43 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+08/24/2017 12:55:43 PM - TestStatus - INFO: test_t1_valid_login ### TEST SUCCESSFUL
+08/24/2017 12:55:43 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:55:43 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:55:43 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:55:46 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:55:46 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:55:49 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:55:49 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:55:52 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:55:52 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:55:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:55:55 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:55:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:55:58 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:55:58 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:56:01 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:56:01 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:56:04 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:56:04 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:56:07 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:56:07 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:56:07 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:56:10 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:56:10 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:56:13 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:56:13 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:56:16 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:56:16 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:56:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:56:16 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:56:16 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:56:19 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:56:19 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:56:22 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:56:22 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:56:25 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:56:25 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:56:25 PM - LoginPage - INFO: Element not found with locator: //.field-validation-error[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/24/2017 12:56:25 PM - LoginPage - INFO: Element not present with locator: //.field-validation-error[contains(text(),'Invalid email or password')] locatorType: xpath
+08/24/2017 12:56:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:56:25 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:56:25 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:56:28 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:56:28 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:56:31 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:56:31 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:56:35 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:56:35 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:56:35 PM - LoginPage - INFO: Element not found with locator: //.field-validation-error[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/24/2017 12:56:35 PM - LoginPage - INFO: Element not present with locator: //.field-validation-error[contains(text(),'Invalid email or password')] locatorType: xpath
+08/24/2017 12:59:20 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:20 PM - LoginTests - INFO: test_t1invalidLogin started
+08/24/2017 12:59:20 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:20 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:59:20 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/24/2017 12:59:20 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:59:20 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/24/2017 12:59:20 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:59:21 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:59:21 PM - Util - INFO: Actual Text From Application Web UI --> :: Axinom CMS
+08/24/2017 12:59:21 PM - Util - INFO: Expected Text From Application Web UI --> :: Axinom CMS
+08/24/2017 12:59:21 PM - Util - INFO: ### VERIFICATION CONTAINS !!!
+08/24/2017 12:59:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Verification
+08/24/2017 12:59:21 PM - LoginPage - INFO: Element found with locator: #awe-homeButtonId and  locatorType: css
+08/24/2017 12:59:21 PM - LoginPage - INFO: Element present with locator: #awe-homeButtonId locatorType: css
+08/24/2017 12:59:21 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Login Verification
+08/24/2017 12:59:21 PM - TestStatus - INFO: test_t1_valid_login ### TEST SUCCESSFUL
+08/24/2017 12:59:21 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:21 PM - LoginTests - INFO: test_t2_missing_username started
+08/24/2017 12:59:21 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:24 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:59:24 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:59:27 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:59:27 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:59:30 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:59:30 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:59:33 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:33 PM - LoginTests - INFO: test_t2_missing_password started
+08/24/2017 12:59:33 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:36 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:59:36 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:59:39 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:59:39 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:59:42 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:59:42 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:59:45 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:45 PM - LoginTests - INFO: test_t4_missing_username_and_password started
+08/24/2017 12:59:45 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:48 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:59:48 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 12:59:51 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 12:59:51 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 12:59:55 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 12:59:55 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 12:59:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:55 PM - LoginTests - INFO: test_t5_invalid_password started
+08/24/2017 12:59:55 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 12:59:58 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 12:59:58 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 01:00:01 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 01:00:01 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 01:00:04 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 01:00:04 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 01:00:04 PM - LoginPage - INFO: Element not found with locator: //.field-validation-error[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/24/2017 01:00:04 PM - LoginPage - INFO: Element not present with locator: //.field-validation-error[contains(text(),'Invalid email or password')] locatorType: xpath
+08/24/2017 01:00:04 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 01:00:04 PM - LoginTests - INFO: test_t5_invalid_username started
+08/24/2017 01:00:04 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 01:00:07 PM - LoginPage - INFO: Element not found with locator: input[type='text'] and  locatorType: css
+08/24/2017 01:00:07 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='text'] locatorType: css
+08/24/2017 01:00:10 PM - LoginPage - INFO: Element not found with locator: input[type='password'] and  locatorType: css
+08/24/2017 01:00:10 PM - LoginPage - INFO: Cannot send data on the element with locator: input[type='password'] locatorType: css
+08/24/2017 01:00:13 PM - LoginPage - INFO: Element not found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 01:00:13 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 01:00:13 PM - LoginPage - INFO: Element not found with locator: //.field-validation-error[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/24/2017 01:00:13 PM - LoginPage - INFO: Element not present with locator: //.field-validation-error[contains(text(),'Invalid email or password')] locatorType: xpath
+08/24/2017 01:01:54 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 01:01:54 PM - LoginTests - INFO: test_t5_invalid_password started
+08/24/2017 01:01:54 PM - LoginTests - INFO: *#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#
+08/24/2017 01:01:54 PM - LoginPage - INFO: Element found with locator: input[type='text'] and  locatorType: css
+08/24/2017 01:01:54 PM - LoginPage - INFO: Sent data on element with locator: input[type='text'] locatorType: css
+08/24/2017 01:01:54 PM - LoginPage - INFO: Element found with locator: input[type='password'] and  locatorType: css
+08/24/2017 01:01:54 PM - LoginPage - INFO: Sent data on element with locator: input[type='password'] locatorType: css
+08/24/2017 01:01:54 PM - LoginPage - INFO: Element found with locator: //input[@value='Log in' and @type='button'] and  locatorType: xpath
+08/24/2017 01:01:54 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log in' and @type='button'] locatorType: xpath
+08/24/2017 01:01:54 PM - LoginPage - INFO: Element not found with locator: //.field-validation-error[contains(text(),'Invalid email or password')] and  locatorType: xpath
+08/24/2017 01:01:54 PM - LoginPage - INFO: Element not present with locator: //.field-validation-error[contains(text(),'Invalid email or password')] locatorType: xpath

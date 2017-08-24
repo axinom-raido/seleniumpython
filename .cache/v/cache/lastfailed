@@ -1,0 +1,4 @@
+{
+  "tests/API_tests.py::loginAPITests::test_invalidLoginAPI": true,
+  "tests/login_tests.py::LoginTests::test_t1invalidLogin": true
+}
